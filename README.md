@@ -1,110 +1,245 @@
-<h1 align="center">Hi 👋, I'm Tejaswi Guttula</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 AI Enthusiast | 🎨 UI/UX Designer</h3>
+# Hi 👋, I'm Tejaswi G
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Tejaswi+Guttula;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+### i am learner
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejaswicsd&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswicsd" />
+</div>
+
+## About Me
+
+A Computer Science and Design undergraduate with solid grounding in full stack development, machine learning, and UI/UX design. Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
+
+- 🔭 I'm currently working on **AI audio classification deep learning**
+- 🌱 I'm currently learning **ML**
+- 👯 I'm looking to collaborate on **software development**
+- 📫 How to reach me **tejaswiguttula1@gmail.com**
+- 👨‍💻 All of my projects are available at [abcddd](abcddd)
+- 📝 I regularly write articles on [abcdd](abcdd)
+- 📄 Know about my experiences [abcddd](abcddd)
+- ⚡ Fun fact **i am funnyy**
+
+## 🎓 Education
+
+**B.TECH IN COMPUTER SCIENCE AND DESIGN** (2021 – 2025)  
+*SAGI RAMAKRISHNAM RAJU ENGINEERING COLLEGE, Bhimavaram, India*  
+CGPA: 7.93 (Current 3rd Year Student)
+
+**DIPLOMA IN ARTIFICIAL INTELLIGENCE** (2018 – 2021)  
+*ISTS WOMEN'S ENGINEERING COLLEGE, Rajanagaram, India*
+
+## 💼 Professional Experience
+
+**Full Stack Developer Intern** — *MCR Web Solutions* (Jul 2023 – Dec 2023)
+- Developed a professional website for SVCET College, improving their online presence
+- Collaborated with a team of 5 to enhance core project functionalities
+- Used PHP, HTML, CSS, JavaScript, and MySQL for development
+
+## 🚀 Featured Projects
+
+### 🧠 Student Depression Detection Using CNN
+- Developed a CNN-based model to detect depression in students using behavioral and academic data
+- Applied feature extraction and data preprocessing techniques to identify depression indicators
+- Achieved 89% accuracy in detecting early signs of depression among college students
+- **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection)
+
+### 🎵 Audio Classification Using Deep Learning
+- Created a deep learning model to classify audio samples into different categories using MFCCs
+- Implemented signal processing techniques and neural networks to analyze audio features
+- Developed real-time classification capabilities with 85% accuracy
+- **GitHub:** [audio-classification](https://github.com/Tejaswicsd/audio-classification)
+
+### 🌊 TechWave – Student-Teacher Platform
+- Built MERN stack platform for student-teacher interaction with JWT authentication
+- Created responsive design and implemented real-time notification system
+- **GitHub:** [techwave](https://github.com/Tejaswicsd/techwave)
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
 </p>
 
----
-
-## 🌟 About Me
-
-- 🔭 Currently working on AI-based systems in **speech & vision**
-- 🧠 Exploring advanced **Deep Learning** and **MERN stack**
-- 💡 Believer in building tech that solves real-world problems
-- 🎓 3rd Year B.Tech in Computer Science and Design
-- 📫 Reach me at: **[tejaswiguttula1@gmail.com](mailto:tejaswiguttula1@gmail.com)**
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🌐 Full Stack & Tools
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswicsd&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswicsd&theme=radical" width="48%" />
+### Frontend Development
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejaswicsd&theme=dracula" width="40%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejaswicsd&theme=dracula" width="40%"/>
+### Backend Development
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  </a>
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejaswicsd&theme=tokyonight" />
+### Database & Cloud
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
 </p>
 
----
-
-## 📊 Skill Summary Pie Chart
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Frontend','Backend','Machine Learning','UI/UX','DevOps'],datasets:[{data:[25,25,20,15,15]}]},options:{plugins:{legend:{labels:{color:'white'}}}}}" width="50%" />
+### AI/ML & Data Science
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
 </p>
 
+### DevOps & Tools
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+</p>
+
+## 🏆 Certifications
+
+- **Deep Learning Specialization** - Coursera (Andrew Ng) - March 2024
+- **Computer Vision with OpenCV** - Udemy - February 2024
+- **JavaScript Certification** - Sololearn - April 2024
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abcdd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abcdd" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/abcd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abcd" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/abcd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abcd" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/abcd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abcd" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abcd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abcd" height="30" width="40" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswicsd&show_icons=true&locale=en" alt="tejaswicsd" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswicsd&" alt="tejaswicsd" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswicsd&show_icons=true&locale=en&layout=compact" alt="tejaswicsd" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaswicsd" alt="tejaswicsd" />
+</div>
+
 ---
 
-## 🚀 Highlight Projects
-
-### 🧠 Depression Detection Using CNN
-> Detects depression using behavioral and academic data.  
-> 🔗 [Repo](https://github.com/Tejaswicsd/depression-detection)
-
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=Tejaswicsd&repo=depression-detection&theme=radical)
-
----
-
-### 🔊 Audio Classification with Deep Learning
-> Real-time classification of audio samples using MFCC and CNN.  
-> 🔗 [Repo](https://github.com/Tejaswicsd/audio-classification)
-
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=Tejaswicsd&repo=audio-classification&theme=radical)
-
----
-
-### 💬 TechWave - Student-Teacher MERN App
-> Secure, real-time communication system for students and teachers.  
-> 🔗 [Repo](https://github.com/Tejaswicsd/techwave)
-
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=Tejaswicsd&repo=techwave&theme=radical)
-
----
-
-## 📚 Certifications
-
-- 🧠 Deep Learning Specialization – Coursera  
-- 👁️ Computer Vision with OpenCV – Udemy  
-- 💻 JavaScript Certification – Sololearn  
-
----
-
-## 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejaswi%20Guttula-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejaswi-guttula-36ba44298)
-[![GitHub](https://img.shields.io/badge/GitHub-Tejaswicsd-black?style=for-the-badge&logo=github)](https://github.com/Tejaswicsd)
-[![Gmail](https://img.shields.io/badge/Email-tejaswiguttula1@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswiguttula1@gmail.com)
-
----
-
-<p align="center"><i>“Building things that matter — one line of code at a time.”</i></p>
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/tejaswicsd">Tejaswi G</a></i>
+</div>
