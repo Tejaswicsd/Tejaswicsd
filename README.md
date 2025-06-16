@@ -3,9 +3,9 @@
 </div>
 
 
-# Hi 👋, I'm Tejaswi G
+# Hi 👋, I'm Tejaswi 
 
-### i am learner
+
 
 
 ## About Me
