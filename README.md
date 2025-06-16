@@ -39,12 +39,16 @@ CGPA: 7.93 (Current 3rd Year Student)
 
 ## 🚀 Featured Projects
 
-### 🧠 Student Depression Detection Using CNN
-- Developed a CNN-based model to detect depression in students using behavioral and academic data
-- Applied feature extraction and data preprocessing techniques to identify depression indicators
-- Achieved 89% accuracy in detecting early signs of depression among college students
-- **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection)
+🧠 Student Depression Detection Using CNN
+<div align="center"> <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=800&q=80" alt="Mental Health Detection AI" width="600" /> </div>
 
+    Developed a CNN-based model to detect depression in students using behavioral and academic data
+
+    Applied feature extraction and data preprocessing techniques to identify depression indicators
+
+    Achieved 89% accuracy in detecting early signs of depression among college students
+
+    🔗 GitHub: depression-detection
 ### 🎵 Audio Classification Using Deep Learning
 - Created a deep learning model to classify audio samples into different categories using MFCCs
 - Implemented signal processing techniques and neural networks to analyze audio features
