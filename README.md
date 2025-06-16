@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/tejaswicsd/tejaswicsd/blob/main/ss-removebg-preview.gif?raw=true" alt="Coding GIF" width="300" />
+</div>
+
+
 # Hi 👋, I'm Tejaswi G
 
 ### i am learner
