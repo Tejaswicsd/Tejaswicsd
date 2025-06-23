@@ -16,9 +16,6 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
 - 🌱 I'm currently learning **ML**
 - 👯 I'm looking to collaborate on **software development**
 - 📫 How to reach me **tejaswiguttula1@gmail.com**
-- 👨‍💻 All of my projects are available at [abcddd](abcddd)
-- 📝 I regularly write articles on [abcdd](abcdd)
-- 📄 Know about my experiences [abcddd](abcddd)
 - ⚡ Fun fact **i am funnyy**
 
 ## 🎓 Education
