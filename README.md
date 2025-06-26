@@ -9,13 +9,13 @@
 
 A Computer Science and Design undergraduate with solid grounding in full stack development, machine learning, and UI/UX design. Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
 
-- 🔭 I'm currently working on **AI audio classification deep learning**
-- 🌱 I'm currently learning **ML**
-- 👯 I'm looking to collaborate on **software development**
-- 📫 How to reach me **tejaswiguttula1@gmail.com**
-- ⚡ Fun fact **i am funnyy**
+-  I'm currently working on **AI audio classification deep learning**
+-  I'm currently learning **ML**
+-  I'm looking to collaborate on **software development**
+- How to reach me **tejaswiguttula1@gmail.com**
 
-## 🎓 Education
+
+##  Education
 
 **B.TECH IN COMPUTER SCIENCE AND DESIGN** (2021 – 2025)  
 *SAGI RAMAKRISHNAM RAJU ENGINEERING COLLEGE, Bhimavaram, India*  
