@@ -15,14 +15,8 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
 - How to reach me **tejaswiguttula1@gmail.com**
 
 
-##  Education
 
-**B.TECH IN COMPUTER SCIENCE AND DESIGN** (2021 – 2025)  
-*SAGI RAMAKRISHNAM RAJU ENGINEERING COLLEGE, Bhimavaram, India*  
-CGPA: 7.93 (Current 3rd Year Student)
 
-**DIPLOMA IN ARTIFICIAL INTELLIGENCE** (2018 – 2021)  
-*ISTS WOMEN'S ENGINEERING COLLEGE, Rajanagaram, India*
 
 ## 💼 Professional Experience
 
