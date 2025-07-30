@@ -25,25 +25,25 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
 - Collaborated with a team of 5 to enhance core project functionalities
 - Used PHP, HTML, CSS, JavaScript, and MySQL for development
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 Student Depression Detection Using CNN
+###  Student Depression Detection Using CNN
 - Developed a CNN-based model to detect depression in students using behavioral and academic data
 - Applied feature extraction and data preprocessing techniques to identify depression indicators
 - Achieved 89% accuracy in detecting early signs of depression among college students
 - **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection) 
-### 🎵 Audio Classification Using Deep Learning
+###  Audio Classification Using Deep Learning
 - Created a deep learning model to classify audio samples into different categories using MFCCs
 - Implemented signal processing techniques and neural networks to analyze audio features
 - Developed real-time classification capabilities with 85% accuracy
 - **GitHub:** [audio-classification](https://github.com/Tejaswicsd/audio-classification)
 
-### 🌊 TechWave – Student-Teacher Platform
+###  TechWave – Student-Teacher Platform
 - Built MERN stack platform for student-teacher interaction with JWT authentication
 - Created responsive design and implemented real-time notification system
 - **GitHub:** [techwave](https://github.com/Tejaswicsd/techwave)
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p align="left">
@@ -183,7 +183,7 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   </a>
 </p>
 
-## 🏆 Certifications
+##  Certifications
 
 - **Deep Learning Specialization** - Coursera (Andrew Ng) - March 2024
 - **Computer Vision with OpenCV** - Udemy - February 2024
