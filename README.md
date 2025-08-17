@@ -1,5 +1,3 @@
-
-
 # Hi 👋, I'm Tejaswi 
 
 
@@ -23,7 +21,7 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
 **Full Stack Developer Intern** — *MCR Web Solutions* (Jul 2023 – Dec 2023)
 - Developed a professional website for SVCET College, improving their online presence
 - Collaborated with a team of 5 to enhance core project functionalities
-- Used PHP, HTML, CSS, JavaScript, and MySQL for development
+- Used PHP, HTML, CSS, JavaScript, and MySQL for development etc..
 
 ##  Featured Projects
 
