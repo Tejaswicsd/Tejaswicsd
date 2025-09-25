@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tejuuu
+# Hi 👋, I'm Tejuuu(Dont click this https://tejaswi-guttula.lovable.app/)
 
 
 
