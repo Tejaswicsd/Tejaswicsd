@@ -187,7 +187,7 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
 - **Computer Vision with OpenCV** - Udemy - February 2024
 - **JavaScript Certification** - Sololearn - April 2024
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/abcdd" target="blank">
