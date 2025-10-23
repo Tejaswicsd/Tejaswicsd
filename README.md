@@ -5,7 +5,7 @@
 
 ## About Me
 
-A Computer Science and Design undergraduate with solid grounding in full stack development, machine learning, and UI/UX design. Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
+A Computer Science and Design undergraduate with solid grounding in full stack development, machine learning, and  Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
 
 -  I'm currently working on **AI audio classification deep learning**
 -  I'm currently learning **ML**
