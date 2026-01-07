@@ -1,67 +1,103 @@
-# Hi 👋, I'm Tejuuu(Dont click this https://tejaswi-guttula.lovable.app/)
+# Hi 👋, I'm Tejaswi Guttula
 
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tejaswi-guttula.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswi-guttula-36ba44298/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswiguttula1@gmail.com)
 
+</div>
 
+## 🎓 About Me
 
-## About Me
+A Computer Science and Design undergraduate with solid grounding in **full stack development**, **machine learning**, and **AI-driven solutions**. Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
 
-A Computer Science and Design undergraduate with solid grounding in full stack development, machine learning, and  Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
+- 🔭 I'm currently working on **AI audio classification deep learning**
+- 🌱 I'm currently learning **Advanced Machine Learning & Computer Vision**
+- 👯 I'm looking to collaborate on **AI/ML Projects & Software Development**
+- 📫 How to reach me **tejaswiguttula1@gmail.com**
+- 🌐 Portfolio: **[tejaswi-guttula.lovable.app](https://tejaswi-guttula.lovable.app/)**
 
--  I'm currently working on **AI audio classification deep learning**
--  I'm currently learning **ML**
--  I'm looking to collaborate on **software development**
-- How to reach me **tejaswiguttula1@gmail.com**
+---
 
+## 💼 Professional Experience
 
+**Full Stack Software Developer** — *MCR Web Solutions* (Jan 2023 – Dec 2023)
+- Developed RESTful APIs and microservices using Spring Boot and Python Flask serving 2000+ concurrent users
+- Automated deployment workflows using Python and shell scripts, reducing manual deployment time by 40%
+- Managed MySQL and MongoDB databases with query optimization achieving 30% faster response times
+- Created professional websites and enhanced core functionalities collaborating with development teams
 
+---
 
+## 🚀 Featured Projects
 
-##  Professional Experience of mine
+### 🤖 Smart Bin Waste Management System
+- Developed vision-based waste classification using **Enhanced YOLOv8 segmentation** and feature fusion networks
+- Presented research paper at **ICEAMST 2025**, RV College of Engineering, Bengaluru (November 3-5, 2025)
+- Implemented real-time object detection and classification for automated waste sorting
+- **Tech Stack:** `Python` `YOLOv8` `Computer Vision` `Deep Learning` `OpenCV`
 
-**Full Stack Developer Intern** — *MCR Web Solutions* (Jul 2023 – Dec 2023)
-- Developed a professional website for SVCET College, improving their online presence
-- Collaborated with a team of 5 to enhance core project functionalities
-- Used PHP, HTML, CSS, JavaScript, and MySQL for development etc..
-
-##  Featured Projects
-
-###  Student Depression Detection Using CNN
-- Developed a CNN-based model to detect depression in students using behavioral and academic data
+### 🧠 Student Depression Detection Using CNN
+- Built CNN-based model to detect depression in students using behavioral and academic data
 - Applied feature extraction and data preprocessing techniques to identify depression indicators
-- Achieved 89% accuracy in detecting early signs of depression among college students
-- **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection) 
-###  Audio Classification Using Deep Learning
-- Created a deep learning model to classify audio samples into different categories using MFCCs
-- Implemented signal processing techniques and neural networks to analyze audio features
-- Developed real-time classification capabilities with 85% accuracy
-- **GitHub:** [audio-classification](https://github.com/Tejaswicsd/audio-classification)
+- Achieved **89% accuracy** in detecting early signs of depression among college students
+- **Tech Stack:** `Python` `TensorFlow` `Keras` `scikit-learn` `NumPy` `pandas`
+- **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection)
 
-###  TechWave – Student-Teacher Platform
+### 🎵 Urban Sound Classification Using Deep Learning
+- Created deep learning model to classify audio samples into different categories using MFCCs
+- Processed **8,732 audio files** with automated feature extraction and batch processing
+- Implemented CNN architecture using TensorFlow/Keras achieving **89% accuracy**
+- Developed real-time classification capabilities with signal processing techniques
+- **Tech Stack:** `Python` `TensorFlow` `Keras` `librosa` `NumPy` `MFCC`
+- **GitHub:** [audio-classification](https://github.com/Tejaswicsd/Audio-classification-Deeplearning.git)
+
+### 🔒 CyberGuard Risk Assessment System
+- Developed ML-based predictive risk scoring system with Flask and FastAPI backend
+- Built system processing real-time network telemetry data with **100+ req/sec** throughput
+- Implemented anomaly detection algorithms using scikit-learn for automated threat identification
+- Architected PostgreSQL schema for storing sensor data and operational metrics
+- **Tech Stack:** `Python` `FastAPI` `Flask` `PostgreSQL` `scikit-learn` `ML Pipelines`
+- **GitHub:** [cyberguard-risk-system](https://github.com/Tejaswicsd/cyberguard-risk-system)
+
+### 💻 TechWave – Student-Teacher Platform
 - Built MERN stack platform for student-teacher interaction with JWT authentication
+- Handled **500+ concurrent users** with MongoDB for scalable data storage
 - Created responsive design and implemented real-time notification system
-- **GitHub:** [techwave](https://github.com/Tejaswicsd/techwave)
+- Containerized application using Docker for consistent deployment
+- **Tech Stack:** `Node.js` `Express` `MongoDB` `React` `Docker` `JWT`
+- **GitHub:** [Tech-Wave](https://github.com/Tejaswicsd/Tech-Wave)
 
-##  Technical Skills
+### 🧪 AI-Powered Task Automation Platform
+- Engineered Python automation scripts for task scheduling and data processing serving 500+ users
+- Designed RESTful API backend with FastAPI and PostgreSQL for efficient data management
+- Implemented automated database backup and optimization scripts
+- **Tech Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `Automation`
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
 
@@ -79,11 +115,11 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -107,8 +143,14 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
@@ -126,6 +168,9 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
@@ -134,6 +179,9 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -148,11 +196,20 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
@@ -166,6 +223,9 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -181,57 +241,80 @@ A Computer Science and Design undergraduate with solid grounding in full stack d
   </a>
 </p>
 
-##  Certifications
+---
 
+## 📜 Publications & Certifications
+
+### 📄 Conference Paper
+**"An Optimized Vision-based Smart Bin for Waste Management Classification System using Enhanced YOLOv8 Segmentation and Feature Fusion Networks"**
+- Presented at 3rd International Conference on Emerging Applications of Material Science and Technology (ICEAMST 2025)
+- RV College of Engineering, Bengaluru | November 3-5, 2025
+
+### 🏆 Certifications
+- **Cisco Cybersecurity Essentials**
+- **Infosys SpringBoot Java**
 - **Deep Learning Specialization** - Coursera (Andrew Ng) - March 2024
 - **Computer Vision with OpenCV** - Udemy - February 2024
+- **JavaScript Advanced** - HackerRank
 - **JavaScript Certification** - Sololearn - April 2024
+- **Python Programming**
+- **Problem Solving Expert** - HackerRank
 
-## Connect with me
+### 🎯 Achievements
+- **Smart India Hackathon 2024** - Participant
+- **Technical Team Lead** - Led team of 4 members
+
+---
+
+## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abcdd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abcdd" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/tejaswi-guttula-36ba44298/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejaswi-guttula" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/abcd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abcd" height="30" width="40" />
+  <a href="mailto:tejaswiguttula1@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="tejaswiguttula1" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/abcd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abcd" height="30" width="40" />
+  <a href="https://github.com/Tejaswicsd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tejaswicsd" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/abcd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abcd" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/abcd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abcd" height="30" width="40" />
+  <a href="https://www.hackerrank.com/tejaswiguttula1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejaswiguttula1" height="30" width="40" />
   </a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswicsd&show_icons=true&locale=en" alt="tejaswicsd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswicsd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="tejaswicsd" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswicsd&" alt="tejaswicsd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswicsd&theme=radical&hide_border=true" alt="tejaswicsd" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswicsd&show_icons=true&locale=en&layout=compact" alt="tejaswicsd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswicsd&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="tejaswicsd" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejaswicsd" alt="tejaswicsd" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaswicsd&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="tejaswicsd" />
 </div>
 
 ---
 
 <div align="center">
-  <i>From <a href="https://github.com/tejaswicsd">Tejuuuu</a></i>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=tejaswicsd&color=brightgreen&style=for-the-badge)
+
 </div>
 
+---
 
-
-
-sigining of Tejuuuu........
+<div align="center">
+  <i>From <a href="https://github.com/tejaswicsd">Tejaswi Guttula</a> with ❤️</i>
+  <br>
+  <b>Signing off, Tejuuu...</b>
+</div>
