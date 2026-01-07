@@ -12,15 +12,15 @@
 
 A Computer Science and Design undergraduate with solid grounding in **full stack development**, **machine learning**, and **AI-driven solutions**. Strong interest in applied AI for speech and vision-based systems. My objective as a developer is to contribute technical skills and creativity to impactful software projects.
 
-- 🔭 I'm currently working on **AI audio classification deep learning**
-- 🌱 I'm currently learning **Advanced Machine Learning & Computer Vision**
-- 👯 I'm looking to collaborate on **AI/ML Projects & Software Development**
-- 📫 How to reach me **tejaswiguttula1@gmail.com**
-- 🌐 Portfolio: **[tejaswi-guttula.lovable.app](https://tejaswi-guttula.lovable.app/)**
+-  I'm currently working on **AI audio classification deep learning**
+-  I'm currently learning **Advanced Machine Learning & Computer Vision**
+-  I'm looking to collaborate on **AI/ML Projects & Software Development**
+-  How to reach me **tejaswiguttula1@gmail.com**
+-  Portfolio: **[tejaswi-guttula.lovable.app](https://tejaswi-guttula.lovable.app/)**
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Full Stack Software Developer** — *MCR Web Solutions* (Jan 2023 – Dec 2023)
 - Developed RESTful APIs and microservices using Spring Boot and Python Flask serving 2000+ concurrent users
@@ -38,14 +38,14 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 - Implemented real-time object detection and classification for automated waste sorting
 - **Tech Stack:** `Python` `YOLOv8` `Computer Vision` `Deep Learning` `OpenCV`
 
-### 🧠 Student Depression Detection Using CNN
+###  Student Depression Detection Using CNN
 - Built CNN-based model to detect depression in students using behavioral and academic data
 - Applied feature extraction and data preprocessing techniques to identify depression indicators
 - Achieved **89% accuracy** in detecting early signs of depression among college students
 - **Tech Stack:** `Python` `TensorFlow` `Keras` `scikit-learn` `NumPy` `pandas`
 - **GitHub:** [depression-detection](https://github.com/Tejaswicsd/depression-detection)
 
-### 🎵 Urban Sound Classification Using Deep Learning
+###  Urban Sound Classification Using Deep Learning
 - Created deep learning model to classify audio samples into different categories using MFCCs
 - Processed **8,732 audio files** with automated feature extraction and batch processing
 - Implemented CNN architecture using TensorFlow/Keras achieving **89% accuracy**
@@ -53,7 +53,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 - **Tech Stack:** `Python` `TensorFlow` `Keras` `librosa` `NumPy` `MFCC`
 - **GitHub:** [audio-classification](https://github.com/Tejaswicsd/Audio-classification-Deeplearning.git)
 
-### 🔒 CyberGuard Risk Assessment System
+###  CyberGuard Risk Assessment System
 - Developed ML-based predictive risk scoring system with Flask and FastAPI backend
 - Built system processing real-time network telemetry data with **100+ req/sec** throughput
 - Implemented anomaly detection algorithms using scikit-learn for automated threat identification
@@ -61,7 +61,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 - **Tech Stack:** `Python` `FastAPI` `Flask` `PostgreSQL` `scikit-learn` `ML Pipelines`
 - **GitHub:** [cyberguard-risk-system](https://github.com/Tejaswicsd/cyberguard-risk-system)
 
-### 💻 TechWave – Student-Teacher Platform
+###  TechWave – Student-Teacher Platform
 - Built MERN stack platform for student-teacher interaction with JWT authentication
 - Handled **500+ concurrent users** with MongoDB for scalable data storage
 - Created responsive design and implemented real-time notification system
@@ -69,7 +69,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 - **Tech Stack:** `Node.js` `Express` `MongoDB` `React` `Docker` `JWT`
 - **GitHub:** [Tech-Wave](https://github.com/Tejaswicsd/Tech-Wave)
 
-### 🧪 AI-Powered Task Automation Platform
+###  AI-Powered Task Automation Platform
 - Engineered Python automation scripts for task scheduling and data processing serving 500+ users
 - Designed RESTful API backend with FastAPI and PostgreSQL for efficient data management
 - Implemented automated database backup and optimization scripts
@@ -77,7 +77,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p align="left">
@@ -260,7 +260,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 - **Python Programming**
 - **Problem Solving Expert** - HackerRank
 
-### 🎯 Achievements
+###  Achievements
 - **Smart India Hackathon 2024** - Participant
 - **Technical Team Lead** - Led team of 4 members
 
