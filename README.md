@@ -22,7 +22,7 @@ A Computer Science and Design undergraduate with solid grounding in **full stack
 
 ##  Professional Experience
 
-**Full Stack Software Developer** — *MCR Web Solutions* (Jan 2023 – Dec 2023)
+**Full Stack Software Developer** — *MCR Web Solutions* (Jan 2024 – july 2024)
 - Developed RESTful APIs and microservices using Spring Boot and Python Flask serving 2000+ concurrent users
 - Automated deployment workflows using Python and shell scripts, reducing manual deployment time by 40%
 - Managed MySQL and MongoDB databases with query optimization achieving 30% faster response times
